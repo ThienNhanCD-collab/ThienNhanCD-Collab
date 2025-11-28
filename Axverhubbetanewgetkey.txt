@@ -1,6 +1,6 @@
 -- 1️⃣ KHAI BÁO KEY & LINK GET KEY
 local key = "AxverBeta" -- Key bạn đặt
-local keyLink = "tiktok.com/@axver.hub" -- Link khi ấn "Get Key"
+local keyLink = "https://direct-link.net/1453867/23z8hlJJ9gbo" -- Link khi ấn "Get Key"
 
 -- 2️⃣ GIAO DIỆN NHẬP KEY
 local CoreGui = game:GetService("CoreGui")
