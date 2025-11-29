@@ -1,6 +1,6 @@
 -- 1️⃣ KHAI BÁO KEY & LINK GET KEY
 local key = "AxverBeta" -- Key bạn đặt
-local keyLink = "https://direct-link.net/1453867/23z8hlJJ9gbo" -- Link khi ấn "Get Key"
+local keyLink = "https://sub2unlock.me/4AlLfq3" -- Link khi ấn "Get Key"
 
 -- 2️⃣ GIAO DIỆN NHẬP KEY
 local CoreGui = game:GetService("CoreGui")
