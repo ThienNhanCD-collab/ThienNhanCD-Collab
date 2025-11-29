@@ -2389,23 +2389,23 @@ if game:GetService("ReplicatedStorage").Effect.Container:FindFirstChild("Respawn
 end
 v16.Home:AddButton({
     Title = "Tik Tok",
-    Description = "Click(Copy)",
+    Description = "Follow tui nha",
     Callback = function()
-        setclipboard("https://www.tiktok.com/@hnc_roblox?_t=ZS-8ywjDgNQ1ah&_r=1");
+        setclipboard("tiktok.com/@axver.hub");
     end
 });
 v16.Home:AddButton({
-    Title = "Zalo Group",
-    Description = "Click(Copy)",
+    Title = "Flo để biết thêm script🥰",
+    Description = "Click",
     Callback = function()
-        setclipboard("https://zalo.me/g/tvdpop639");
+        setclipboard("tiktok.com/@axver.hub");
     end
 });
 v16.Home:AddButton({
-    Title = "Remember:",
-    Description = "This is not the real Banana Cat Hub, but a fake version made by HNC Roblox.",
+    Title = "Discord Axver",
+    Description = "vào đi",
     Callback = function()
-        setclipboard("https://www.tiktok.com/@hnc_roblox?_t=ZS-8ywjDgNQ1ah&_r=1");
+        setclipboard("https://discord.gg/cAQbr8Qt");
     end
 });
 _G.FastAttackStrix_Mode = "Super Fast Attack";
@@ -4337,7 +4337,7 @@ if Sea3 then
         while task.wait() do
             pcall(function()
                 local v793 = game:GetService("Lighting").Sky.MoonTextureId;
-                if (v793 == "http://www.roblox.com/asset/?id=9709149431") then
+                if (v793 == "http://www.roblox.com/asset/?id=111155239441263") then
                     FullMoonStatus = "100%";
                 elseif (v793 == "http://www.roblox.com/asset/?id=9709149052") then
                     FullMoonStatus = "75%";
